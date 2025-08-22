@@ -4,7 +4,6 @@ Rigorous, end-to-end quantitative finance case studies spanning derivatives pric
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)]()
 [![Notebooks](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 [![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)]()
 
 ---
@@ -121,9 +120,9 @@ This repository is for research and education. It is not investment advice. Mode
 
 ---
 
-## 📄 License
+## License
+No open-source license is granted for this repository. All rights reserved by the author. Viewing and forking on GitHub may be permitted under GitHub’s Terms of Service, but no permission is granted to use, modify, or distribute this code outside GitHub. For permission requests, please open an issue.
 
-MIT. See LICENSE for details.
 
 ---
 
